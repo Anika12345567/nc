@@ -1,2 +1,2 @@
-# nc
-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
